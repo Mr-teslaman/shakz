@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+    <!-- Header Pages -->
+    <url>
+        <loc>https://nyotecreation.com/</loc>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://nyotecreation.com/services</loc>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://nyotecreation.com/why-choose-us</loc>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://nyotecreation.com/benefits</loc>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://nyotecreation.com/faq</loc>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://nyotecreation.com/founder</loc>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Footer Service Pages -->
+    <url>
+        <loc>https://nyotecreation.com/services/seo-optimization</loc>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://nyotecreation.com/services/website-hosting</loc>
+        <priority>0.8</priority>
+    </url>
+
+        <url>
+        <loc>https://nyotecreation.com/services/digital-marketing</loc>
+        <priority>0.8</priority>
+    </url>
+
+
+    <url>
+        <loc>https://nyotecreation.com/services/website-maintenance</loc>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://nyotecreation.com/services/content-creation</loc>
+        <priority>0.8</priority>
+    </url>
+
+</urlset>
